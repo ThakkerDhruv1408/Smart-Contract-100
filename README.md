@@ -32,10 +32,8 @@ Throughout this repo, you'll see examples of:
 ## 🛠️ Technologies
 
 - **Solidity** - Because writing JavaScript wasn't frustrating enough
-- **Hardhat** - For when you want to pretend your local machine is a blockchain
-- **OpenZeppelin** - For when you realize reinventing security wheels is a terrible idea
-- **Ethers.js** - For talking to the blockchain without losing your sanity
-
+- **Foundry** - For when you want industrial-strength testing without JavaScript getting in the way
+- **Forge & Cast** - Because real blockchain devs prefer CLI tools that sound like medieval weaponry
 ## 🧪 How to Use This Repo
 
 1. Clone it (you're clearly already interested)
@@ -45,7 +43,7 @@ Throughout this repo, you'll see examples of:
 
 ## 👨‍💻 About Me
 
-I'm a developer who decided that regular software wasn't stressful enough, so I decided to write code where a single misplaced semicolon could cost millions. You can find more of my work at [insert your GitHub link] or reach out to me on Twitter/LinkedIn/etc.
+I'm a developer who decided that regular software wasn't stressful enough, so I decided to write code where a single misplaced semicolon could cost millions. You can find more of my work at [https://github.com/ThakkerDhruv1408] or reach out to me on [https://www.linkedin.com/in/dhruv-thakker-383b8925b/].
 
 ---
 
